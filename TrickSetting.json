@@ -1,0 +1,14 @@
+{
+
+    "0" : {
+        "trickName" : "一列揃え(上)",
+        "point" : 10,
+        "contents" : [[true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true]]
+    },
+    "1" : {
+        "trickName" : "一列揃え(下)",
+        "point" : 10,
+        "contents" : [[true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false], [true, true], [true, false]]
+    }
+
+}

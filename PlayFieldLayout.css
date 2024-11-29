@@ -1,0 +1,50 @@
+.base{
+
+    background-color: brown;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-user-select: none;
+    user-select: none;
+
+}
+
+.canvasLayerBase{
+
+    height: 90%;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+}
+
+.canvasLayer{
+
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 0;
+    top: 0;
+
+}
+
+.canvas{
+
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+.mondBlock{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
